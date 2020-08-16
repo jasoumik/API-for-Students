@@ -8,7 +8,7 @@ The Task list is given below:
 Created a simple web API using Laravel framework for the student course registration process where A student can successfully register courses and drop courses if he/she wants. Showed all students, courses and also show taken courses of a specific student. The application can also create students, courses and modify student information.
 
 
-Used Tech:PHP, Laravel 6, Passport, Pivot(For Many to many Relationship)
+Used Tech:PHP, Laravel 6, Passport, Pivot (For Many to many Relationship)
 
 
 Endpoints I have used:
