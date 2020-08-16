@@ -22,6 +22,6 @@ User Login: http://127.0.0.1:8000/api/login
 4.	API must have an endpoint to create a course=>http://127.0.0.1:8000/api/v1/courses
 5.	API must have an endpoint to view all courses.=> http://127.0.0.1:8000/api/v1/courses
 6.	API must have an endpoint to register a course=>http://127.0.0.1:8000/api/v1/students/{id}/courses
-7.	API must have an endpoint to drop a course=>http://127.0.0.1:8000/api/v1/students/{id}/courses    //There is some issue here
+7.	API must have an endpoint to drop a course=>http://127.0.0.1:8000/api/v1/students/{id}/courses    //There is some issues here
 8.	API must have an endpoint to view taken courses of a specific student=>http://127.0.0.1:8000/api/v1/students/{id}/courses
 
